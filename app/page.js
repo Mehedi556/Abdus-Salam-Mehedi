@@ -11,7 +11,7 @@ export default function Home() {
       </div>
 
       <p className="text-center text-3xl font-medium py-4 px-8 text-gray-200">
-        <span className="text-5xl">Hi</span> there!!! <br /> <br /> Welcome to
+        <span className="text-5xl">Hi</span> there <br /> <br /> Welcome to
         my Portfolio.. <br /> <br /> My homepage is currently under construction
         and will be back soon with a fresh new design!
       </p>
